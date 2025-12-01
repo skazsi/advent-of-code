@@ -1,3 +1,3 @@
-# Advent Of Code 2023
+# Advent Of Code
 
-[https://adventofcode.com/2023](https://adventofcode.com/2023)
+My fun with [https://adventofcode.com](https://adventofcode.com).
