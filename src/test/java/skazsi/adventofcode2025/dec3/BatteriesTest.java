@@ -1,21 +1,10 @@
 package skazsi.adventofcode2025.dec3;
 
-import static java.lang.Math.abs;
 import static org.assertj.core.api.BDDAssertions.then;
 
 import java.io.InputStream;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-import java.util.Map.Entry;
-import java.util.Optional;
 import java.util.Scanner;
-import java.util.stream.Collectors;
-import java.util.stream.LongStream;
 
-import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 
 public class BatteriesTest {
